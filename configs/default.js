@@ -59,6 +59,7 @@ var config = [
         workspaceId: "Cloud9",
         userDir: null, // is this always there??
         unixId: null,
+        port: 8088,
         host: host
     }, {
         packagePath: "./cloud9.core",
